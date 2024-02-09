@@ -19,4 +19,4 @@ Circle if the compound in the table is an Arrhenius Acid or Base.
 
 |Compound | Arrhenius Acid/Base |
 | ------- | ------------------- |
-| KOH(aq) $\rightarrow$ K<sup>+<sup>(aq) + OH<sup>-</sup>(aq) | Acid/Base |
+| KOH(aq) $\rightarrow$ K<sup>+</sup>(aq) + OH<sup>-</sup>(aq) | Acid \t / \t Base |
