@@ -4,6 +4,6 @@ There are a handful of ways one can define if a compound acts like an acid or ba
 
 ## Arrhenius Theory
 
-The Arrhenius definition is relatively straight forward but only apply to aqueous solutions. <ins> **Acids** are substances that yeild H$^{+}$ ions when disolved in water, and **bases** yeild OH$^{-}$ ions.</ins> Lets look at a couple of examples.
+The Arrhenius definition is relatively straight forward but only apply to aqueous solutions. <ins> **Acids** are substances that yeild H $^{+}$ ions when disolved in water, and **bases** yeild OH $^{-}$ ions.</ins> Lets look at a couple of examples.
 
-$$$ HCl\text{(aq)} \rightarrow H^{+} + Cl^{-}$$$
+$$ \text{HCl(aq)} \rightarrow \text{H}^{+}\text{(aq)} + \text{Cl}^{-}\text{(aq)} $$
