@@ -16,11 +16,11 @@ The presences of acids and bases (also called *alkalis*) has been known even bef
 | Taste    | Sour | Bitter |
 | Touch    | Corrosive | Slippery |
 | *pH*       | Below 7 | Above 7 |
-| Reaction with Metal | Produce H$_{2}$ gas | Unreactive |
+| Reaction with Metal | Produce H<sub>2</sub>$ gas | Unreactive |
 | Litmus Test | Turns Litmus paper red | Turns Litmus paper blue |
 
 Acids and bases also share some unique properties such as: colorless, electrical conductivity, and reactive with indicators (changing their color). It wasn't until 1884 when Swedish chemist, Svante Arrhenius, provided a groundbreaking explanation for the categorization and behavior of acids and bases in aqueous solutions.
 
-[Defining Acids and Bases >>>](./Notes/AB-Theory-c.md)
+[Defining Acids and Bases >>>](./AB-Theory-c.md)
 
 [<<< Home](./)
