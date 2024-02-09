@@ -23,4 +23,4 @@ Acids and bases also share some unique properties such as: colorless, electrical
 
 [Defining Acids and Bases >>>](./Notes/AB_Theory-c.md)
 
-[<<< Home](./README.md)
+[<<< Home](./)
