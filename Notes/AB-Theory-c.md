@@ -27,7 +27,7 @@ Circle if the compound on the reactant side in the table is an Arrhenius Acid or
 
 The Arrhenius definition helps identify many types of compunds which are acids and bases, however is limited because they only apply to aqueous solutions. A broader definition was was proposed by Johannes Brønsted in 1932 to classify a larger group of compounds as acids or bases. A **Brønsted acid** is a *proton donor* and a **Brønsted base** is a *proton acceptor*. This definition does not require acids and bases to be in aqueous solution, just that acids donate a proton and bases accept one. Lets take our HCl example above:
 
-$$ \text{HCl(aq)} \rightarrow \text{H}^{+}\text{(aq)} + \text{Cl}^{-}\text{(aq)} $$
+<center> HCl(aq) &rarr; H<sup>+</sup>(aq) + Cl<sup>-</sup>(aq) </center>
 
 When we write the state of a compound, we typically write it as a solid (s), liquid (l), or gas (g). Here, our acids and bases are dissolved in water. To denote that, we say that it is in an aqueous (aq) state. In other words, in addition to having HCl as a reactant, we have water. So another way to write the reaction above is:
 
