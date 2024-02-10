@@ -1,4 +1,4 @@
-# Acid Base Theories
+# Acid-Base Theories
 
 There are a handful of ways one can define if a compound acts like an acid or base. This page will cover the three main acid-base theories that are commonly iscussed in chemistry (but acknolwedge that there are others).
 
@@ -25,7 +25,7 @@ Circle if the compound on the reactant side in the table is an Arrhenius Acid or
 | ------- | ------------------- |
 | KOH(aq) $\rightarrow$ K<sup>+</sup>(aq) + OH<sup>-</sup>(aq) | Acid  / Base |
 | HNO<sub>3</sub>(aq) $\rightarrow$ H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq) | Acid  / Base |
-| XXX (aq) $\rightarrow$ Cu<sup>+</sup>(aq) + 2 OH<sup>-</sup>(aq) | Acid  / Base |
+| Cu(OH)<sub>2</sub> (aq) $\rightarrow$ Cu<sup>+</sup>(aq) + 2 OH<sup>-</sup>(aq) | Acid  / Base |
 
 ## Brønsted Theory
 
@@ -43,9 +43,7 @@ When we write the state of a compound, we typically write it as a solid (s), liq
 
 This reaction is more representative of what is happening in the reaction. H<sup>+</sup> is a very reactive atom, and will want to bond with another atom. Given the presence of water, the proton will stick to the negatively charge O atom of water forming a *hydronium ion* (H<sub>3</sub>O<sup>+</sup>). This equation shows the reaction between the Brønsted acid (HCl) and Brønsted base (H<sub>2</sub>O) forming hydronium and chloride (Cl<sup>-</sup>) ions.
 
-<p align='center'>
 ![HCl Dissociation gif](../Images/HCl-H2O.gif)
-</p>
 
 The hydroxide ion is classified as a Brønsted base because it can accept a base as follows:
 
@@ -59,6 +57,19 @@ Any Arrhenius base can be classified as a Brønsted base. However, not all Brøn
 <img src="https://latex.codecogs.com/svg.image?\small&space;\text{NH}_{3}\text{(aq)}&plus;\text{H}_{2}\text{O(l)}\rightleftharpoons\text{NH}_{4}^{&plus;}\text{(aq)}&plus;\text{OH}^{-}\text{(aq)}" />
 </p>
 
+![NH3 Dissociation gif](../Images/NH3-H2O.gif)
+
+Within Brønsted acid-base theory, some compounds can act as both an acid and a base. The compounds are called *amphoteric*. For example, bicarbonate ion can both donate and accept a proton.
+
+<p align='center'>
+**Brønsted Acid**
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCO}_{3}^{-}\text{(aq)}&plus;\text{H}_{2}\text{O(l)}\rightleftharpoons\text{CO}_{3}^{2-}\text{(aq)}&plus;\text{H}_{3}\text{O}^{&plus;}\text{(aq)}" />
+</p>
+
+<p align='center'>
+**Brønsted Bcid**
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCO}_{3}^{-}\text{(aq)}&plus;\text{H}_{2}\text{O(l)}\rightleftharpoons\text{H}_{2}\text{CO}_{3}\text{(aq)}&plus;\text{OH}^{-}\text{(aq)}" />
+</p>
 
 
 
