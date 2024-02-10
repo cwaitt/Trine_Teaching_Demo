@@ -43,7 +43,9 @@ When we write the state of a compound, we typically write it as a solid (s), liq
 
 This reaction is more representative of what is happening in the reaction. H<sup>+</sup> is a very reactive atom, and will want to bond with another atom. Given the presence of water, the proton will stick to the negatively charge O atom of water forming a *hydronium ion* (H<sub>3</sub>O<sup>+</sup>). This equation shows the reaction between the Brønsted acid (HCl) and Brønsted base (H<sub>2</sub>O) forming hydronium and chloride (Cl<sup>-</sup>) ions.
 
+<p align='center'>
 ![HCl Dissociation gif](../Images/HCl-H2O.gif)
+</p>
 
 The hydroxide ion is classified as a Brønsted base because it can accept a base as follows:
 
