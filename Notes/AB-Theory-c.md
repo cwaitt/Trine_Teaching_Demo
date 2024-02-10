@@ -6,11 +6,15 @@ There are a handful of ways one can define if a compound acts like an acid or ba
 
 The Arrhenius definition is relatively straight forward but only apply to aqueous solutions. **Arrhenious acids** are substances that yeild H<sup>+</sup> ions when disolved in water, and **Arrhenious bases** yeild OH<sup>-</sup> ions. Lets look at a couple of examples.
 
-$$ \text{HCl(aq)} \rightarrow \text{H}^{+}\text{(aq)} + \text{Cl}^{-}\text{(aq)} $$
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCl(aq)}\rightarrow\text{H}^{&plus;}\text{(aq)}&plus;\text{Cl}^{-}\text{(aq)}" />
+</p>
 
 HCl(aq) is considered an Arrhenius acid because when dissolved into water, HCl dissociates into H<sup>+</sup>(aq) and Cl<sup>-</sup>(aq) ions.
 
-$$ \text{NaOH(aq)} \rightarrow \text{Na}^{+}\text{(aq)} + \text{OH}^{-}\text{(aq)} $$
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{NaOH(aq)}\rightarrow\text{Na}^{&plus;}\text{(aq)}&plus;\text{OH}^{-}\text{(aq)}" />
+</p>
 
 NaOH(aq) is considered an Arrhenius base because when dissolved into water, NaOH dissociates into Na<sup>+</sup>(aq) and OH<sup>-</sup>(aq) ions.
 
@@ -27,7 +31,9 @@ Circle if the compound on the reactant side in the table is an Arrhenius Acid or
 
 The Arrhenius definition helps identify many types of compunds which are acids and bases, however is limited because they only apply to aqueous solutions. A broader definition was was proposed by Johannes Brønsted in 1932 to classify a larger group of compounds as acids or bases. A **Brønsted acid** is a *proton donor* and a **Brønsted base** is a *proton acceptor*. This definition does not require acids and bases to be in aqueous solution, just that acids donate a proton and bases accept one. Lets take our HCl example above:
 
-$$ \text{HCl}(aq) \rightarrow \text{H}^{+}(aq) + \text{Cl}^{-}(aq) $$
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCl(aq)}\rightarrow\text{H}^{&plus;}\text{(aq)}&plus;\text{Cl}^{-}\text{(aq)}" />
+</p>
 
 When we write the state of a compound, we typically write it as a solid (s), liquid (l), or gas (g). Here, our acids and bases are dissolved in water. To denote that, we say that it is in an aqueous (aq) state. In other words, in addition to having HCl as a reactant, we have water. So another way to write the reaction above is:
 
@@ -41,11 +47,15 @@ This reaction is more representative of what is happening in the reaction. H<sup
 
 The hydroxide ion is classified as a Brønsted base because it can accept a base as follows:
 
-$$ \text{H}^{+}\text{(aq)} + \text{OH}^{-}\text{(aq)} \rightarrow \text{H}_{2}\text{O(l)} $$
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{H}^{&plus;}\text{(aq)}&plus;\text{OH}^{-}\text{(aq)}\rightarrow\text{H}_{2}\text{O(l)}" />
+</p>
 
 Any Arrhenius base can be classified as a Brønsted base. However, not all Brønsted bases can be classified as an Arrhenius base. For example, ammonia (NH<sub>3</sub>) is a Brønsted base because it can accept a proton from an acid or water.
 
-$$ \text{NH}_{3}\text{(aq)} + \text{H}_{2} \text{O(l)} \xrightleftharpoons \text{NH}_{4}^{+}\text{(aq)} + \text{OH}^{-}\text{(aq)} $$
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{NH}_{3}\text{(aq)}&plus;\text{H}_{2}\text{O(l)}\rightleftharpoons\text{NH}_{4}^{&plus;}\text{(aq)}&plus;\text{OH}^{-}\text{(aq)}" />
+</p>
 
 
 
