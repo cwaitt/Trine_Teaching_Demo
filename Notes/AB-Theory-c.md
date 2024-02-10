@@ -20,7 +20,7 @@ Circle if the compound on the reactant side in the table is an Arrhenius Acid or
 |Compound | Arrhenius Acid/Base |
 | ------- | ------------------- |
 | KOH(aq) $\rightarrow$ K<sup>+</sup>(aq) + OH<sup>-</sup>(aq) | Acid  / Base |
-| HNO<sub>3</sub>(aq) $\rightarrow$ H<sup>+</sup>(aq) + NO<sub>3<\sub><sup>-</sup>(aq) | Acid  / Base |
+| HNO<sub>3</sub>(aq) $\rightarrow$ H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq) | Acid  / Base |
 |     (aq) $\rightarrow$ Cu<sup>+</sup>(aq) + 2 OH<sup>-</sup>(aq) | Acid  / Base |
 
 ## Brønsted Theory
@@ -33,6 +33,7 @@ When we write the state of a compound, we typically write it as a solid (s), liq
 
 $$ \text{HCl(aq)} + \text{H}_{2}\text{O(l)} \rightarrow \text{H}_{3}\text{O}^{+}\text{(aq)} + \text{Cl}^{-}\text{(aq)} $$
 
-This reaction is more representative of what is happening in the reaction. H<sup>+</sup> is a very reactive atom, and will want to bond with another atom. Given the presence of water, the proton will stick to the negatively charge O atom of water forming a *hydronium ion* (H<sub>3</sub>O<sup>+</sup>(aq)). This equation shows the reaction between the Brønsted acid (HCl) and Brønsted base (H<sub>2</sub>O) forming hydronium and chloride (Cl<sup>-</sup>) ions.
+This reaction is more representative of what is happening in the reaction. H<sup>+</sup> is a very reactive atom, and will want to bond with another atom. Given the presence of water, the proton will stick to the negatively charge O atom of water forming a *hydronium ion* (H<sub>3</sub>O<sup>+</sup>). This equation shows the reaction between the Brønsted acid (HCl) and Brønsted base (H<sub>2</sub>O) forming hydronium and chloride (Cl<sup>-</sup>) ions.
 
-![Test Text](../Images/HCl-H2O.gif)
+![HCl Dissociation gif](../Images/HCl-H2O.gif)
+
