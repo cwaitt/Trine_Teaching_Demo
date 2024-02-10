@@ -62,14 +62,27 @@ Any Arrhenius base can be classified as a Brønsted base. However, not all Brøn
 Within Brønsted acid-base theory, some compounds can act as both an acid and a base. The compounds are called *amphoteric*. For example, bicarbonate ion can both donate and accept a proton.
 
 <p align='center'>
-**Brønsted Acid**
 <img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCO}_{3}^{-}\text{(aq)}&plus;\text{H}_{2}\text{O(l)}\rightleftharpoons\text{CO}_{3}^{2-}\text{(aq)}&plus;\text{H}_{3}\text{O}^{&plus;}\text{(aq)}" />
 </p>
 
 <p align='center'>
-**Brønsted Bcid**
 <img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCO}_{3}^{-}\text{(aq)}&plus;\text{H}_{2}\text{O(l)}\rightleftharpoons\text{H}_{2}\text{CO}_{3}\text{(aq)}&plus;\text{OH}^{-}\text{(aq)}" />
 </p>
+
+The top reaction corresponds to bicarbonate acting as a Brønsted acid, where the bottom shows it as a Brønsted base.
+
+### Exercise
+Classify each of the following species as Brønsted acid or base if they react with water.
+
+|Compound | Brønsted Acid/Base/Both |
+| ------- | ------------------- |
+| HBr | Acid / Base / Both |
+| NO<sub>3</sub><sup>-</sup> | Acid / Base / Both |
+| HCN | Acid  / Base / Both |
+| H<sub>2</sub>O | Acid  / Base / Both |
+
+
+
 
 
 
