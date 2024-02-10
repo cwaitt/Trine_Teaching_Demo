@@ -31,7 +31,7 @@ $$ \text{HCl(aq)} \rightarrow \text{H}^{+}\text{(aq)} + \text{Cl}^{-}\text{(aq)}
 
 When we write the state of a compound, we typically write it as a solid (s), liquid (l), or gas (g). Here, our acids and bases are dissolved in water. To denote that, we say that it is in an aqueous (aq) state. In other words, in addition to having HCl as a reactant, we have water. So another way to write the reaction above is:
 
-$$ \text{HCl(aq)} + \text{H}_{2}\text{O(l)} \rightarrow \text{H}_{3}\text{O}^{+}\text{(aq)} + \text{Cl}^{-}\text{(aq)} $$
+$$ \text{HCl(aq)} + \text{H}\text{O(l)} \rightarrow \text{H}\text{O}^{+}\text{(aq)} + \text{Cl}^{-}\text{(aq)} $$
 
 This reaction is more representative of what is happening in the reaction. H<sup>+</sup> is a very reactive atom, and will want to bond with another atom. Given the presence of water, the proton will stick to the negatively charge O atom of water forming a *hydronium ion* (H<sub>3</sub>O<sup>+</sup>). This equation shows the reaction between the Brønsted acid (HCl) and Brønsted base (H<sub>2</sub>O) forming hydronium and chloride (Cl<sup>-</sup>) ions.
 
