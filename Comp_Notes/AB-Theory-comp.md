@@ -82,6 +82,19 @@ Classify each of the following species as Brønsted acid or base if they react w
 | H<sub>2</sub>O | Acid  / Base / Both |
 
 
+## Lewis Theory
+
+According to the Brønsted theory, a base must be able to accept protons. By this definition, both the hydroxide ion and ammonia are Brønsted bases:
+
+![OH-NH3-LA](../Images/OH-NH3-LA.png)
+
+In both cases, the atom which the proton becomes attached to posses at least one unshared paired of electrons. The characteristic property of OH<sup>-</sup>, NH<sub>3</sub>, and other Brønsted bases suggests a more general definition of acids and bases. In 1932, an american chemist named G. N. Lewis formulated a new definition of acids and bases. He defined a **Lewis base** as a substance that can *donate a pair of electrons* and a **Lewis acid** as a substance that can *accept* a pair of electrons*. For example the protination of NH<sub>3</sub> acts as a Lewis base because it donates a pair of electrons to the H<sup>+</sup>, which acts as a Lewis acid. 
+
+The Lewis definition of acids and bases is more general than the Brønsted and Arrhenius definitions. Consider the reaction between BF<sub>3</sub> and NH<sub>3</sub>:
+
+![OH-NH3-LA](../Images/BF3-NH3-LAB.png)
+
+The vacant $p_{z}$ orbital accepts an electron pair from the NH<sub>3</sub>. BF<sub>3</sub> functions as an acid according to the Lewis theory, even though it does not contain an ionizable proton.
 
 
 
