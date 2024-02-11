@@ -82,6 +82,8 @@ Classify each of the following species as Brønsted acid or base if they react w
 | H<sub>2</sub>O | Acid  / Base / Both |
 
 
+
+
 ## Lewis Theory
 
 According to the Brønsted theory, a base must be able to accept protons. By this definition, both the hydroxide ion and ammonia are Brønsted bases:
@@ -95,6 +97,10 @@ The Lewis definition of acids and bases is more general than the Brønsted and A
 ![OH-NH3-LA](../Images/BF3-NH3-LAB.png)
 
 The vacant $p_{z}$ orbital accepts an electron pair from the NH<sub>3</sub>. BF<sub>3</sub> functions as an acid according to the Lewis theory, even though it does not contain an ionizable proton.
+
+[Defining Acids and Bases >>>](./AB-Theory-c.md)
+
+[<<< Home](./)
 
 
 

@@ -4,12 +4,15 @@ This repository contains notes to refer to our lessons on Acid-Base chemistry. I
 
 Go to the following sections for the lecture notes:
 
-[Properties of Acids and Bases](./Lect_Notes/Properties-uc.md)
+[Properties of Acids and Bases](./Lect_Notes/Properties-lect.md)
+
 [Acid and Base Theories](./Lect_Notes/AB-Theory-lect.md)
+
+[pH -- A measure of Acidity](./Lect_Notes/pH-Lect.md)
 
 Complete set of lecture notes can be found here: 
 
-[Completed Lecture Notes](./Comp_Note/)
+[Completed Lecture Notes](./Comp_Notes/)
 
 
 
