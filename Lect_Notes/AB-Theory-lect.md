@@ -98,6 +98,13 @@ The Lewis definition of acids and bases is more general than the Brønsted and A
 
 The vacant $p_{z}$ orbital accepts an electron pair from the NH<sub>3</sub>. BF<sub>3</sub> functions as an acid according to the Lewis theory, even though it does not contain an ionizable proton.
 
+### Exercise
+
+```python
+print('Hello world')
+```
+
+
 [Measuring the Stength of Acids and Bases >>>](./pH-lect.md)
 
 [<<< Properties of Acids and Bases](./Properties-lect.md)
