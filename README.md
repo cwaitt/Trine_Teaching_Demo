@@ -8,7 +8,7 @@ Go to the following sections for the lecture notes:
 
 [Acid and Base Theories](./Lect_Notes/AB-Theory-lect.md)
 
-[pH -- A measure of Acidity](./Lect_Notes/pH-Lect.md)
+[pH -- A measure of Acidity](./Lect_Notes/pH-lect.md)
 
 Complete set of lecture notes can be found here: 
 
