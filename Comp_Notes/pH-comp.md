@@ -86,10 +86,6 @@ The pH of a swimming pool is measured to be 7.6 at a temperature of $25^{\circ}\
 </p>
 
 <p align='center'>
-<img src="https://latex.codecogs.com/svg.image?\small&space;[H^{&plus;}]=10^{-\text{pH}}" />
-</p>
-
-<p align='center'>
 <img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=\frac{1.0\times&space;10^{-14}}{1.0\times&space;10^{-\text{7.6}}}" />
 </p>
 

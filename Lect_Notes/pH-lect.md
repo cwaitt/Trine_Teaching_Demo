@@ -57,6 +57,6 @@ Because pH is simply a way to express hydrogen ion concentration, acidic and bas
 
 The pH of a swimming pool is measured to be 7.6 at a temperature of $25^{\circ}\text{C}$. Calculate the concentration of hydroxide ions \[OH<sup>−</sup>\] in the pool water.
 
-[<<< Home](../README.md)
+[<<< Defining Acids and Bases](./AB-Theory-lect.md)
 
 [<<< Home](../README.md)
