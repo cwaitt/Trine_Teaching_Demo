@@ -49,6 +49,6 @@ Because pH is simply a way to express hydrogen ion concentration, acidic and bas
 
 | | \[H<sup>+</sup>\] | pH |
 | --- | --- | --- |
-| Acidic | $ > 1.00 \times 10^{-7} M $ | $> 7.00$ |
-| Basic | $ < 1.00 \times 10^{-7} M $ | $< 7.00$ |
-| Neutral | $ = 1.00 \times 10^{-7} M $ | $= 7.00$ |
+| Acidic | $> 1.00 \times 10^{-7} M$ | $> 7.00$ |
+| Basic | $< 1.00 \times 10^{-7} M$ | $< 7.00$ |
+| Neutral | $= 1.00 \times 10^{-7} M$ | $= 7.00$ |
