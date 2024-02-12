@@ -7,9 +7,10 @@ In the previous section, we showed that water can act as an acid or a base depen
 The reaction above indicates that there is an equilibrium between liquid water (reactants) and the hydronium and hydroxide ions (products). There for, we can express the equilibrium constant for the autoionization of water:
 
 <p align='center'>
-<img src="https://latex.codecogs.com/svg.image?\small&space;K_{w}=\frac{[\text{H}_{3}\text{O}^{&plus;}][\text{OH}^{-}]}{[\text{H}_{2}\text{O}]^{2}}
-The concentration of a pure substance can be taken to be 1. So the equation above can be simplified to:" />
+<img src="https://latex.codecogs.com/svg.image?\small&space;K_{w}=\frac{[\text{H}_{3}\text{O}^{&plus;}][\text{OH}^{-}]}{[\text{H}_{2}\text{O}]^{2}}}" />
 </p>
+
+The concentration of a pure substance can be taken to be 1. So the equation above can be simplified to:
 
 $$ K_{w} = [\text{H}_{3}\text{O}^{+}][\text{OH}^{-}] $$
 
