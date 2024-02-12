@@ -18,11 +18,11 @@ or
 
 $$ K_{w} = [\text{H}^{+}][\text{OH}^{-}] $$
 
-$K_{w}$ is known as the **ion-product constant** which is *the product of the molar concentrations of H<sup>+</sup> and OH<sup>-</sup> ions at a particular temperature*. In pure water at $25^{\circ}$ C, the concentration of H<sup>+</sup> and OH<sup>-</sup> are equal and found to be $[\text{H}^{+}]$ = $[\text{OH}^{-}]$ = $1.0 \times 10^{-7} M $. This means that $K_{w}$ is:
+$K_{w}$ is known as the **ion-product constant** which is *the product of the molar concentrations of H<sup>+</sup> and OH<sup>-</sup> ions at a particular temperature*. In pure water at $25^{\circ}\text{C}$, the concentration of H<sup>+</sup> and OH<sup>-</sup> are equal and found to be $[\text{H}^{+}]$ = $[\text{OH}^{-}]$ = $1.0 \times 10^{-7} M $. This means that $K_{w}$ is:
 
 $$ K_{w} = [\text{H}^{+}][\text{OH}^{-}] = [1.0 \times 10^{-7}][1.0 \times 10^{-7}] = 1.0 \times 10^{-14} $$
 
-**The value of $K_{w}$ is fixed at $25^{\circ}$C regardless is we have a pure solution of water or an aqueous solution of dissolved species.** Now given an arbitrary solution, we can now determine how acidic or basic it is.
+**The value of $K_{w}$ is fixed at $25^{\circ}\text{C}$ regardless is we have a pure solution of water or an aqueous solution of dissolved species.** Now given an arbitrary solution, we can now determine how acidic or basic it is.
 
 ## Measuring the Acidity or Alkalinity of a Solution
 
@@ -49,6 +49,6 @@ Because pH is simply a way to express hydrogen ion concentration, acidic and bas
 
 | | \[H<sup>+</sup>\] | pH |
 | --- | --- | --- |
-| Acidic | $ > 1.00 \times 10^{-7} M$ | $> 7.00$ |
-| Basic | $ < 1.00 \times 10^{-7} M$ | $< 7.00$ |
-| Neutral | $ = 1.00 \times 10^{-7} M$ | $= 7.00$ |
+| Acidic | $ > 1.00 \times 10^{-7} M $ | $> 7.00$ |
+| Basic | $ < 1.00 \times 10^{-7} M $ | $< 7.00$ |
+| Neutral | $ = 1.00 \times 10^{-7} M $ | $= 7.00$ |
