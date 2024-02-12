@@ -6,9 +6,10 @@ In the previous section, we showed that water can act as an acid or a base depen
 
 The reaction above indicates that there is an equilibrium between liquid water (reactants) and the hydronium and hydroxide ions (products). There for, we can express the equilibrium constant for the autoionization of water:
 
-$$ K_{w} = \frac{[\text{H}_{3}\text{O}^{+}][\text{OH}^{-}]}{[\text{H}_{2}\text{O}]^{2}} $$
-
-The concentration of a pure substance can be taken to be 1. So the equation above can be simplified to:
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;K_{w}=\frac{[\text{H}_{3}\text{O}^{&plus;}][\text{OH}^{-}]}{[\text{H}_{2}\text{O}]^{2}}
+The concentration of a pure substance can be taken to be 1. So the equation above can be simplified to:" />
+</p>
 
 $$ K_{w} = [\text{H}_{3}\text{O}^{+}][\text{OH}^{-}] $$
 
@@ -16,7 +17,7 @@ or
 
 $$ K_{w} = [\text{H}^{+}][\text{OH}^{-}] $$
 
-$K_{w}$ is known as the **ion-product constant** which is *the product of the molar concentrations of H<sup>+</sup> and OH<sup>-</sup> ions at a particular temperature*. In pure water at $25^{\circ}$C, the concentration of H<sup>+</sup> and OH<sup>-</sup> are equal and found to be $[\text{H}^{+}]$ = $[\text{OH}^{-}]$ = $1.0 \times 10^{-7} M $. This means that $K_{w}$ is:
+$K_{w}$ is known as the **ion-product constant** which is *the product of the molar concentrations of H<sup>+</sup> and OH<sup>-</sup> ions at a particular temperature*. In pure water at $25^{\circ}$ C, the concentration of H<sup>+</sup> and OH<sup>-</sup> are equal and found to be $[\text{H}^{+}]$ = $[\text{OH}^{-}]$ = $1.0 \times 10^{-7} M $. This means that $K_{w}$ is:
 
 $$ K_{w} = [\text{H}^{+}][\text{OH}^{-}] = [1.0 \times 10^{-7}][1.0 \times 10^{-7}] = 1.0 \times 10^{-14} $$
 
