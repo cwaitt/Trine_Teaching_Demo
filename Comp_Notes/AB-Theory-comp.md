@@ -23,9 +23,9 @@ Circle if the compound on the reactant side in the table is an Arrhenius Acid or
 
 |Compound | Arrhenius Acid/Base |
 | ------- | ------------------- |
-| KOH(aq) $\rightarrow$ K<sup>+</sup>(aq) + OH<sup>-</sup>(aq) | Acid  / Base |
-| HNO<sub>3</sub>(aq) $\rightarrow$ H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq) | Acid  / Base |
-| Cu(OH)<sub>2</sub> (aq) $\rightarrow$ Cu<sup>+</sup>(aq) + 2 OH<sup>-</sup>(aq) | Acid  / Base |
+| KOH(aq) $\rightarrow$ K<sup>+</sup>(aq) + OH<sup>-</sup>(aq) | Acid  / *Base* |
+| HNO<sub>3</sub>(aq) $\rightarrow$ H<sup>+</sup>(aq) + NO<sub>3</sub><sup>-</sup>(aq) | *Acid*  / Base |
+| Cu(OH)<sub>2</sub> (aq) $\rightarrow$ Cu<sup>+</sup>(aq) + 2 OH<sup>-</sup>(aq) | Acid  / *Base* |
 
 ## Brønsted Theory
 
@@ -76,12 +76,10 @@ Classify each of the following species as Brønsted acid or base if they react w
 
 |Compound | Brønsted Acid/Base/Both |
 | ------- | ------------------- |
-| HBr | Acid / Base / Both |
-| NO<sub>3</sub><sup>-</sup> | Acid / Base / Both |
-| HCN | Acid  / Base / Both |
-| H<sub>2</sub>O | Acid  / Base / Both |
-
-
+| HBr | *Acid* / Base / Both |
+| NO<sub>3</sub><sup>-</sup> | Acid / *Base* / Both |
+| HCN | *Acid*  / Base / Both |
+| H<sub>2</sub>O | Acid  / Base / *Both* |
 
 
 ## Lewis Theory
@@ -98,7 +96,13 @@ The Lewis definition of acids and bases is more general than the Brønsted and A
 
 The vacant $p_{z}$ orbital accepts an electron pair from the NH<sub>3</sub>. BF<sub>3</sub> functions as an acid according to the Lewis theory, even though it does not contain an ionizable proton.
 
-[Defining Acids and Bases >>>](./AB-Theory-c.md)
+### Exercise
+
+Write the reaction of two water molecules forming a hydronium and hydroxide ion. Highlight which water is acting as the Lewis acid and which water is the Lewis base. Draw the Lewis dot diagrams and show the movement of the lone pair electrons from the Lewis acid to the Lewis base.
+
+[Measuring the Stength of Acids and Bases >>>](./pH-comp.md)
+
+[<<< Properties of Acids and Bases](./Properties-comp.md)
 
 [<<< Home](./)
 

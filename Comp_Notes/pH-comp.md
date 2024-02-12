@@ -32,6 +32,22 @@ Whenever the $[\text{H}^{+}] = [\text{OH}^{-}]$, the aqueous solution is said to
 
 If we add an acid to a beaker of pure water such that the concentration of $[\text{H}^{+}]$ increases to $1.0 \times 10^{-6} M$, what is the concentration of $[\text{OH}^{-}]$?
 
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;&space;K_{w}=\frac{[\text{H}_{3}\text{O}^{&plus;}][\text{OH}^{-}]}{[\text{H}_{2}\text{O}]^{2}}" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;\frac{K_{w}[\text{H}_{2}\text{O}]^{2}}{[\text{H}_{3}\text{O}^{&plus;}]}=[\text{OH}^{-}]" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=\frac{1\times&space;10^{-14}[1.0&space;M]^{2}}{[1.0\times&space;10^{-6}M]}" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=1\times&space;10^{-8}" />
+</p>
+
 
 ## pH - a Measure of Acidity
 
@@ -57,6 +73,30 @@ Because pH is simply a way to express hydrogen ion concentration, acidic and bas
 
 The pH of a swimming pool is measured to be 7.6 at a temperature of $25^{\circ}\text{C}$. Calculate the concentration of hydroxide ions \[OH<sup>−</sup>\] in the pool water.
 
-[<<< Home](../README.md)
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=\frac{K_{w}}{[H^{&plus;}]}" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;\text{pH}=-\log[H^{&plus;}]" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;[H^{&plus;}]=10^{-\text{pH}}" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;[H^{&plus;}]=10^{-\text{pH}}" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=\frac{1.0\times&space;10^{-14}}{1.0\times&space;10^{-\text{7.6}}}" />
+</p>
+
+<p align='center'>
+<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=4.0\times&space;10^{-7}M" />
+</p>
+
+[<<< Defining Acids and Bases](./AB-Theory-comp.md)
 
 [<<< Home](../README.md)
