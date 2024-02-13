@@ -1,10 +1,9 @@
 # Acid-Base Theories
-
-There are a handful of ways one can define if a compound acts like an acid or base. This page will cover the three main acid-base theories that are commonly iscussed in chemistry (but acknolwedge that there are others).
+There are a handful of ways one can define if a compound acts like an acid or base. This page will cover the three main acid-base theories that are commonly discussed in chemistry (but acknowledge that there are others).
 
 ## Arrhenius Theory
 
-The Arrhenius definition is relatively straight forward but only apply to aqueous solutions. **Arrhenious acids** are substances that yeild H<sup>+</sup> ions when disolved in water, and **Arrhenious bases** yeild OH<sup>-</sup> ions. Lets look at a couple of examples.
+The Arrhenius definition is relatively straight forward but only applies to aqueous solutions. **Arrhenius acids** are substances that yield H<sup>+</sup> ions when dissolved in water, and **Arrhenius bases** yield OH<sup>-</sup> ions. Lets look at a couple of examples.
 
 <p align='center'>
 <img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCl(aq)}\rightarrow\text{H}^{&plus;}\text{(aq)}&plus;\text{Cl}^{-}\text{(aq)}" />
@@ -29,7 +28,7 @@ Circle if the compound on the reactant side in the table is an Arrhenius Acid or
 
 ## Brønsted Theory
 
-The Arrhenius definition helps identify many types of compunds which are acids and bases, however is limited because they only apply to aqueous solutions. A broader definition was was proposed by Johannes Brønsted in 1932 to classify a larger group of compounds as acids or bases. A **Brønsted acid** is a *proton donor* and a **Brønsted base** is a *proton acceptor*. This definition does not require acids and bases to be in aqueous solution, just that acids donate a proton and bases accept one. Lets take our HCl example above:
+The Arrhenius definition helps identify many types of compounds which are acids and bases, however is limited because they only apply to aqueous solutions. A broader definition was was proposed by Johannes Brønsted in 1932 to classify a larger group of compounds as acids or bases. A **Brønsted acid** is a *proton donor* and a **Brønsted base** is a *proton acceptor*. This definition does not require acids and bases to be in aqueous solution, just that acids donate a proton and bases accept one. Lets take our HCl example above:
 
 <p align='center'>
 <img src="https://latex.codecogs.com/svg.image?\small&space;\text{HCl(aq)}\rightarrow\text{H}^{&plus;}\text{(aq)}&plus;\text{Cl}^{-}\text{(aq)}" />
@@ -82,15 +81,13 @@ Classify each of the following species as Brønsted acid or base if they react w
 | H<sub>2</sub>O | Acid  / Base / Both |
 
 
-
-
 ## Lewis Theory
 
 According to the Brønsted theory, a base must be able to accept protons. By this definition, both the hydroxide ion and ammonia are Brønsted bases:
 
 ![OH-NH3-LA](../Images/OH-NH3-LA.png)
 
-In both cases, the atom which the proton becomes attached to posses at least one unshared paired of electrons. The characteristic property of OH<sup>-</sup>, NH<sub>3</sub>, and other Brønsted bases suggests a more general definition of acids and bases. In 1932, an american chemist named G. N. Lewis formulated a new definition of acids and bases. He defined a **Lewis base** as a substance that can *donate a pair of electrons* and a **Lewis acid** as a substance that can *accept* a pair of electrons*. For example the protination of NH<sub>3</sub> acts as a Lewis base because it donates a pair of electrons to the H<sup>+</sup>, which acts as a Lewis acid. 
+In both cases, the atom which the proton becomes attached to posses at least one unshared paired of electrons. The characteristic property of OH<sup>-</sup>, NH<sub>3</sub>, and other Brønsted bases suggests a more general definition of acids and bases. In 1932, an American chemist named G. N. Lewis formulated a new definition of acids and bases. He defined a **Lewis base** as a substance that can *donate a pair of electrons* and a **Lewis acid** as a substance that can *accept a pair of electrons*. For example the protination of NH<sub>3</sub> acts as a Lewis base because it donates a pair of electrons to the H<sup>+</sup>, which acts as a Lewis acid. 
 
 The Lewis definition of acids and bases is more general than the Brønsted and Arrhenius definitions. Consider the reaction between BF<sub>3</sub> and NH<sub>3</sub>:
 

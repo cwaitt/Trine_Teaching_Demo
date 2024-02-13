@@ -9,7 +9,7 @@ There are numerous example of acid-base chemistry in everyday life. Below you'll
 | Medicine                     | Antacids, Antibiotics, Diagnostic Testing |
 | Soil and Agriculture         | Lime, Acid Rain, Fertilizer |
 
-The presences of acids and bases (also called *alkalis*) has been known even before chemistry was established as field of science. During the time of the ancient Greeks, properties of acids and bases were vaguely understod, however, they realized that there were some fundemental differences between these substances.
+The presence of acids and bases (also called *alkalis*) has been known even before chemistry was established as field of science. During the time of the ancient Greeks, properties of acids and bases were vaguely understood, however, they realized that there were some fundamental differences between these substances.
 
 | Property | Acid | Base |
 | -------- | ---- | ---- |
