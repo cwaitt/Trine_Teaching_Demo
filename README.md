@@ -20,7 +20,7 @@ Complete set of lecture notes can be found here:
 
 [Completed Lecture Notes](./Comp_Notes/)
 
-[Printable version of the Notes]
+[Printable version of the Notes](./PDF-Notes/Acid-Base_Notes.pdf)
 
 
 

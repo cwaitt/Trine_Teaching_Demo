@@ -30,7 +30,7 @@ Whenever the $[\text{H}^{+}] = [\text{OH}^{-}]$, the aqueous solution is said to
 
 ### Exercise
 
-If we add an acid to a beaker of pure water such that the concentration of $[\text{H}^{+}]$ increases to $1.0 \times 10^{-6} M$, what is the concentration of $[\text{OH}^{-}]$?
+If we add an acid to a beaker of pure water such that the concentration of $[\text{H}_{3}\text{O}^{+}]$ increases to $1.0 \times 10^{-6} M$, what is the concentration of $[\text{OH}^{-}]$?
 
 
 ## pH - a Measure of Acidity
