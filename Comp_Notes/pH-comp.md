@@ -41,11 +41,11 @@ If we add an acid to a beaker of pure water such that the concentration of $[\te
 </p>
 
 <p align='center'>
-<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=\frac{1\times&space;10^{-14}[1.0&space;M]^{2}}{[1.0\times&space;10^{-6}M]}" />
+<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=\frac{1.0\times&space;10^{-14}[1.0&space;M]^{2}}{[1.0\times&space;10^{-6}M]}" />
 </p>
 
 <p align='center'>
-<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=1\times&space;10^{-8}" />
+<img src="https://latex.codecogs.com/svg.image?\small&space;[\text{OH}^{-}]=1.0\times&space;10^{-8}" />
 </p>
 
 
