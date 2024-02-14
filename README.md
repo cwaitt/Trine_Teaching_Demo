@@ -1,26 +1,26 @@
-# Acid-Base Chemistry
+# General Chemistry 1000
 
-This repository contains notes to refer to our lessons on Acid-Base chemistry.
-
-**Learning Objective**
-
-1. What are the physical and chemical properties of acids and bases? 
-2. How do we define whats an acid and whats a base?
-3. How do we measure the strength of an acid?
+This repository is a model for a "learning management system" for a ficticeous general chemistry class. This repository contains folders for various topics. The only folder that contains content is the Acid-Base Chemistry Section. 
 
 Go to the following sections for the lecture notes:
 
-[Properties of Acids and Bases](./Lect_Notes/Properties-lect.md)
+[Quantum Theory and the Subatomic World](./README.md)
 
-[Acid and Base Theories](./Lect_Notes/AB-Theory-lect.md)
+[Many-Electron Atoms and the Periodic Table](./README.md)
 
-[Acid-Base Properties of Aqueous Solutions are Governed by the Autoionization of Water](./Lect_Notes/pH-lect.md)
+[The Chemical Bond](./README.md)
 
-Complete set of lecture notes can be found here: 
+[Molecular Structure and Interaction](./README.md)
 
-[Completed Lecture Notes](./Comp_Notes/)
+[The States of Matter](./README.md)
 
-[Printable version of the Notes](./PDF-Notes/Acid-Base_Notes.pdf)
+[Thermochemistry](./README.md)
+
+[Physical Equilibrium](./README.md)
+
+[Chemical Equilibrium](./README.md)
+
+[Acids and Bases](./Acids_and_Bases/)
 
 
 
